@@ -1,0 +1,15 @@
+JDBC 연결을 위한 설정
+
+1. View 생성
+webapp/View/ 속
+1) insert.jsp
+2) insert_action.jsp
+3) list_original.jsp 
+생성
+
+2. DTO 생성
+BoardDTO.java 생성
+
+3. oracle
+1) user 생성
+2) board테이블 생성

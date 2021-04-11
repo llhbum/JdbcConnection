@@ -1,0 +1,5 @@
+프로젝트생성
+1. 이클립스 File
+2. New
+3. Maven Project
+4. Maven-archetype-webapp 1.4 생성
