@@ -1,8 +1,8 @@
 ### JdbcConnection 연결 예제 
 ### Version
-  1. oracle JDBC v.8
-  2. Java 1.8
-  3. 이클립스 21-3
+  oracle JDBC v.8
+  Java 1.8
+  이클립스 21-3
 
 1. [프로젝트생성](https://github.com/llhbum/JdbcConnection/blob/main/JdbcConnection/src/main/webapp/Memo/1.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%83%9D%EC%84%B1)
 2. [기본에러해결](https://github.com/llhbum/JdbcConnection/blob/main/JdbcConnection/src/main/webapp/Memo/2.%EA%B8%B0%EB%B3%B8%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0)
